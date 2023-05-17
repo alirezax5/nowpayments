@@ -1,0 +1,16 @@
+{
+    "name": "alirzeax5/nowpayments",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Alirezax5\\Nowpayments\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alirezax5",
+            "email": "alirezaaghax6@gmail.com"
+        }
+    ],
+    "require": {}
+}
